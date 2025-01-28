@@ -1,0 +1,41 @@
+body {
+  background:#c8d9f3;
+}
+
+p {
+  color: #000000;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  color: #0c122f;
+  border: solid;
+  border-radius: 10px;
+  border-color: #191943;
+}
+
+h2{
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: left;
+}
+h3{
+  font-weight: 100;
+  text-align: left;
+  color: black;
+}
+
+img{
+  margin:0px;
+  border-radius:20px;
+  border-color: #2a325b;
+  height: 250px;
+  width:auto;
+  border-style: dotted;
+}
+
+.mind{
+  margin: 120px;
+  float: left;
+}
